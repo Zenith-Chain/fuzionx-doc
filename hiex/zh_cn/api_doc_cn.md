@@ -1,6 +1,6 @@
 #  HIEX官方API文档
 
-#### HIEX交易所开发文档([English Docs](https://github.com/Zenith-Chain/fuzionx-doc/api/blob/main/hiex/us_en/api_doc_en.md))
+#### HIEX交易所开发文档([English Docs](https://github.com/Zenith-Chain/fuzionx-doc/blob/main/hiex/us_en/api_doc_en.md))
 - [介绍](#Introduction)
 - [开始使用](#startToUse)
 - [API接口加密验证](#a1)

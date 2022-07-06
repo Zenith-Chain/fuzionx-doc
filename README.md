@@ -1,1 +1,1 @@
-# [FuzionX Official API Docs](https://github.com/Zenith-Chain/fuzionx-doc/api/blob/main/api/us_en/api_doc_en.md)
+# [FuzionX Official API Docs](https://github.com/Zenith-Chain/fuzionx-doc/blob/main/api/us_en/api_doc_en.md)

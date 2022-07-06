@@ -1,6 +1,6 @@
 #  FuzionX Official API Docs
 
-#### Official Documentation for the FuzionX APIs and Streams([简体中文版文档](https://github.com/Zenith-Chain/fuzionx-doc/api/blob/main/api/zh_cn/api_doc_cn.md))
+#### Official Documentation for the FuzionX APIs and Streams([简体中文版文档](https://github.com/Zenith-Chain/fuzionx-doc/blob/main/api/zh_cn/api_doc_cn.md))
 - [Introduction](#Introduction)
 - [Getting Started](#startToUse)
 - [Encrypted Verification of API](#a1)
@@ -17,7 +17,7 @@
         - [Numbers](#b3)
         - [Rate Limits REST API](#b4)
 - [Spot API Reference](#b5)
-  - [open-api](#b6) ([Api Demo](https://github.com/Zenith-Chain/fuzionx-doc/api/blob/main/demo/demo.txt))
+  - [open-api](#b6) ([Api Demo](https://github.com/Zenith-Chain/fuzionx-doc/blob/main/demo/demo.txt))
     -   [Balance of the assets](#1)
     -	[Acquire full delegation](#2)
     -	[Obtain all transaction records](#3)
@@ -90,7 +90,7 @@ All REST requests must include the following headings:
 
 ## <span id="a4">Signature</span>
 Generate a string to be signed
-    -   [open-api Demo](https://github.com/Zenith-Chain/fuzionx-doc/api/blob/main/demo/demo.java)
+    -   [open-api Demo](https://github.com/Zenith-Chain/fuzionx-doc/blob/main/demo/demo.java)
     
 1、Sort the parameters in ascending order of their parameter names in lexicographic order
 
